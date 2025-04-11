@@ -1,7 +1,12 @@
 
 ![image alt](https://github.com/ahmedrawag/UK-TRAINS-PROJECT/blob/main/1.PNG?raw=true)
 ![image alt](https://github.com/ahmedrawag/UK-TRAINS-PROJECT/blob/main/2.PNG?raw=true)
+UK-TRAINS-PROJECT(Datafy Group)
+A brief description of what this project does and who it's for
 
+UK Railway Project Planning and Management Project Proposal
+
+Project Overview The UK Railway project aims to analyze train ridership trends, optimize scheduling, and enhance revenue
 UK Railway Project Planning and Management 
 Project Proposal 
 1. Project Overview 
