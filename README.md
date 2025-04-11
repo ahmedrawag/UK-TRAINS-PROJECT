@@ -47,6 +47,9 @@ project lifecycle.
 This comprehensive project proposal and planning document provides a clear roadmap to 
 achieving the desired outcomes for the UK Railway project.
 
+Data Modeling : 
+![image alt](https://github.com/ahmedrawag/UK-TRAINS-PROJECT/blob/main/Data%20modeling.jpeg?raw=true)
+
 https://drive.google.com/drive/folders/1W7R-r7bnl5mU1Gm145AftHsVozDCAZZW?usp=drive_link
 
 
