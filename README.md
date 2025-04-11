@@ -1,6 +1,7 @@
-https://drive.google.com/drive/folders/1W7R-r7bnl5mU1Gm145AftHsVozDCAZZW?usp=drive_link
+
 ![image alt](https://github.com/ahmedrawag/UK-TRAINS-PROJECT/blob/main/1.PNG?raw=true)
-![image alt](
+![image alt](https://github.com/ahmedrawag/UK-TRAINS-PROJECT/blob/main/2.PNG?raw=true)
+
 UK Railway Project Planning and Management 
 Project Proposal 
 1. Project Overview 
@@ -42,5 +43,7 @@ Regular updates and feedback loops with stakeholders to ensure alignment through
 project lifecycle. 
 This comprehensive project proposal and planning document provides a clear roadmap to 
 achieving the desired outcomes for the UK Railway project.
+
+https://drive.google.com/drive/folders/1W7R-r7bnl5mU1Gm145AftHsVozDCAZZW?usp=drive_link
 
 
